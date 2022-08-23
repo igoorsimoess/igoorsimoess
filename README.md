@@ -1,6 +1,6 @@
-- 🔭 I’m currently working on the back-end development at ARIA
-- 🌱 I’m currently learning Django - Ruby on Rails - PostgreSQL
-- 📫 How to reach me: igor.s.simoes@gmail.com
+- I’m currently working on the back-end development at ARIA
+- I’m currently learning Django - Ruby on Rails - PostgreSQL
+- How to reach me: igor.s.simoes@gmail.com
 
 ##
 
