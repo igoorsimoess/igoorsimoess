@@ -1,6 +1,5 @@
-- I’m currently working on the back-end development at ARIA
-- I’m currently learning Django - Ruby on Rails - PostgreSQL
-- How to reach me: igor.s.simoes@gmail.com
+- Currently I'm a Software Developer at Kartado & ARIA
+- Reach me out: igor.s.simoes@gmail.com
 
 ##
 
@@ -31,11 +30,11 @@
   <img align="center" alt="Django" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg">
   <img align="center" alt="Flask" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg">
   <img align="center" alt="GraphQL" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg">
-  <img align="center" alt="Docker" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
-  
-  
-  
-  
+  <img align="center" alt="Docker" height="70" width="Th80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt="Kafka" height="70" width="Th80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg"/>
+  <img align="center" alt="Kafka" height="70" width="Th80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg"/>
+
+##
   
 </div><br>
 <div>
