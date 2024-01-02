@@ -25,7 +25,7 @@
 
 ## Machine Learning/Data Science
 
-[![My Skills](https://skillicons.dev/icons?i=pandas,numpy,polars,matensorflow,pytorch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch)](https://skillicons.dev)
 
 ## Devops
 
@@ -37,8 +37,6 @@
 
 </div><br>
 
-##
-  
 </div><br>
 <div>
  <a href="https://discord.com/users/695421791195103252/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
