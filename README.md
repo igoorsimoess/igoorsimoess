@@ -1,7 +1,4 @@
-- Currently I'm a Software Developer at Kartado & ARIA
-- Reach me out: igor.s.simoes@gmail.com
-
-##
+### Currently I'm a Software Engineer focused on backend and data
 
 <div align="center">
   <a href="https://github.com/igoorsimoess">
@@ -12,27 +9,33 @@
   </a>
 </div>
 
-# What I'm currently using:
+# Tools
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Ruby" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg">
-  <img align="center" alt="C" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="C++" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Javascript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Bash" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  
-  
-  ##
-  
-<div style="display: inine_block"><br>
-  
-  <img align="center" alt="Django" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg">
-  <img align="center" alt="Flask" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg">
-  <img align="center" alt="GraphQL" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg">
-  <img align="center" alt="Docker" height="70" width="Th80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
-  <img align="center" alt="Kafka" height="70" width="Th80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg"/>
-  <img align="center" alt="Kafka" height="70" width="Th80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg"/>
+## Langs
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,ruby,golang,rust,php,ts,js,nodejs,html,css)](https://skillicons.dev)
+
+## Frameworks/Libs
+
+[![My Skills](https://skillicons.dev/icons?i=flask,django,rails,react,vue,selenium)](https://skillicons.dev)
+
+## Database
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,graphql,mongodb,redis)](https://skillicons.dev)
+
+## Machine Learning/Data Science
+
+[![My Skills](https://skillicons.dev/icons?i=pandas,numpy,polars,matensorflow,pytorch)](https://skillicons.dev)
+
+## Devops
+
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,vim,kafka,docker,kubernetes,aws)](https://skillicons.dev)
+
+## Tools
+
+[![My Skills](https://skillicons.dev/icons?i=vim,git,neovim)](https://skillicons.dev)
+
+</div><br>
 
 ##
   
