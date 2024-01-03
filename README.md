@@ -29,7 +29,7 @@
 
 ## Devops
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,vim,kafka,docker,kubernetes,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,kafka,docker,kubernetes,aws)](https://skillicons.dev)
 
 ## Tools
 
