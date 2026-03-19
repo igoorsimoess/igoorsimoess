@@ -14,7 +14,7 @@
 
 ## Langs
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,ruby,golang,rust,php,ts,js,nodejs,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,ruby,golang,ts,js,nodejs)](https://skillicons.dev)
 
 ## Frameworks/Libs
 
